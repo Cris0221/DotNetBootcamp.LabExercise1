@@ -1,0 +1,16 @@
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\bin\Debug\net5.0\CSharp.LabExercise1.exe
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\bin\Debug\net5.0\CSharp.LabExercise1.deps.json
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\bin\Debug\net5.0\CSharp.LabExercise1.runtimeconfig.json
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\bin\Debug\net5.0\CSharp.LabExercise1.runtimeconfig.dev.json
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\bin\Debug\net5.0\CSharp.LabExercise1.dll
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\bin\Debug\net5.0\CSharp.LabExercise1.pdb
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\obj\Debug\net5.0\CSharp.LabExercise1.csproj.AssemblyReference.cache
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\obj\Debug\net5.0\CSharp.LabExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\obj\Debug\net5.0\CSharp.LabExercise1.AssemblyInfoInputs.cache
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\obj\Debug\net5.0\CSharp.LabExercise1.AssemblyInfo.cs
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\obj\Debug\net5.0\CSharp.LabExercise1.csproj.CoreCompileInputs.cache
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\obj\Debug\net5.0\CSharp.LabExercise1.dll
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\obj\Debug\net5.0\refint\CSharp.LabExercise1.dll
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\obj\Debug\net5.0\CSharp.LabExercise1.pdb
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\obj\Debug\net5.0\CSharp.LabExercise1.genruntimeconfig.cache
+C:\Users\cristobal.fragata\source\repos\CSharp.LabExercise1\obj\Debug\net5.0\ref\CSharp.LabExercise1.dll
